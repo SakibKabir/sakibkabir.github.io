@@ -1,8 +1,12 @@
 # SAKIB KABIR
 
-Professional Summary
+## Professional Summary
 
-### Experiences
+
+## Experiences
+1. Research Scientist, NASA 
+2. Senior Programmer, Duke University
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
