@@ -7,6 +7,9 @@
 1. Research Scientist, NASA 
 2. Senior Programmer, Duke University
 
+## Education
+1. M.Sc. in Electrical Engineering
+2. B.Sc. in Electrical and Electronic Engineering
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
