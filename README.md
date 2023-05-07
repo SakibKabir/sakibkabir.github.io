@@ -12,6 +12,12 @@
 1. M.Sc. in Electrical Engineering
 2. B.Sc. in Electrical and Electronic Engineering
 
+## Publications
+
+## Projects
+
+### Satellite Imaging 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
