@@ -1,4 +1,5 @@
-# SAKIB KABIR
+# SAKIB KABIR, M.Sc. 
+
 
 ## Professional Summary
 
