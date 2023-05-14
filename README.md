@@ -23,7 +23,7 @@ Imaging Software Engineer with 5+ years of experience in extensive scientific pr
 
 ## Projects
 Software Engineering
-•	Magnetic Resonance Imaging (MRI) Pipeline Software Development and Deployment 
+•	Magnetic Resonance Imaging (MRI) Pipeline Software Development and Deployment \ 
 -	Improved the Python and C++ codebase (100K+ lines of code) applying best practice coding methodologies.
 -	Refactored a significant portion of the Python codebase to improve modularity so that different types of data can be processed from different sites and MRI scanners.
 -	Heavily streamlined Python classes and methods to process and quantify MRI scans, reducing (if possible, eliminating) dependencies in the code.
