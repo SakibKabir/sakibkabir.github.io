@@ -56,7 +56,7 @@ Imaging Software Engineer with 5+ years of experience in extensive scientific pr
 •	Atmospheric parameter, e.g., aerosol optical depth, column water abundance, etc., calculation from sun photometer data. 
 
 ### Machine Learning 
-•	Created a database in MySQL. Developed K-Nearest Neighbors (KNN) algorithm in Java to classify previously unknown operational state based-on voltage measurement. KNN classification accuracy of 95.7% is achieved on test set. Precision and recall were 83.2% and 91.4%, respectively.
+•	Created a database in MySQL. Developed K-Nearest Neighbors (KNN) algorithm in Java to classify previously unknown operational state based-on voltage measurement. KNN classification accuracy of 95.7% is achieved on test set. Precision and recall were 83.2% and 91.4%, respectively. \
 •	Applied K-means algorithm on the active power measurement to group nodes with similar behavior. Developed decision tree algorithm in Java; implemented anomaly detection algorithm in MATLAB; performed dimensionality reduction using principal component analysis; developed a movie recommender system using collaborative filtering.
 
 ## Skills
