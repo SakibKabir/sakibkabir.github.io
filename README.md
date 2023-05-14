@@ -40,13 +40,13 @@ Software Engineering \
 •	Monte Carlo Simulation on the Cloud Server Computer using Parallel Computing
 -	Utilized 30 Linux Server instances to run simulation for solving a research problem.
 -	Taken advance of multithreading optionality’s provided by Python and MATLAB.
--	Investigated run time and memory requirements thoroughly before running the entire program.
+-	Investigated run time and memory requirements thoroughly before running the entire program. \
 Image Processing \
 •	Absolute and relative calibration of RGB image exploiting integrating sphere.
 •	Spatial and frequency domain image enhancement using linear, and non-linear filters.
 •	Signal-to-Noise ratio (SNR) estimation using aperture cover and homogenous area imagery. 
 •	Modulation Transfer Function (MTF) estimation using water-land transition image of Landsat 8 OLI.
-•	Compressed image using discreate cosine and Fourier transform coding.
+•	Compressed image using discreate cosine and Fourier transform coding. \
 Remote Sensing \
 •	Landsat 8, Sentinel 2A, Landsat 7, PlanetScope multispectral remote sensing sensor absolute calibration. Used Hyperion hyperspectral imagery to calculate Spectral Band Adjustment Factor (SBAF).
 •	NDVI based change detection in the largest mangrove forest in the world using Landsat 8 OLI imagery.
