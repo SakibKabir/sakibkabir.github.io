@@ -14,6 +14,12 @@ Imaging Software Engineer with 5+ years of experience in extensive scientific pr
 2. B.Sc. in Electrical and Electronic Engineering
 
 ## Publications
+1.	Kabir, S., Pahlevan, N., O’Shea, RE. Leveraging Landsat-8/-9 underfly observations to evaluate Landsat-9 products over aquatic ecosystems. Remote Sensing Environment 2022, in press.
+2.	Kabir, S., Al Amin, A., Anayatullah, M., Saha, B.K. and Aziz, T., 2014, April. Impact of supercapacitor placement in renewable integrated microgrid to minimize post-fault frequency fluctuation. In 2014 International Conference on Electrical Engineering and Information & Communication Technology (pp. 1-5). IEEE.
+3.	Kabir, S.; Leigh, L.; Helder, D. Vicarious Methodologies to Assess and Improve the Quality of the Optical Remote Sensing Images: A Critical Review. Remote Sens. 2020, 12, 4029. https://doi.org/10.3390/rs12244029
+4.	Kabir, S., Islam, M.S., Aminuzzaman, M., Ahmed, A. and Khan, M.R.H., 2015, May. Renewable integrated Hybrid Power Management for Off Grid Base Transceiver Station (BTS): Microcontroller based. In 2015 International Conference on Electrical Engineering and Information Communication Technology (ICEEICT) (pp. 1-4). IEEE.
+5.	Mummy, D., Bier, E., Lu, J., Leewiwatwong, S., Bechtel, A., Dummer, I., Kabir, S., Korzekwinski, J., Williford, K., Martindale, S. and Giovacchini, C.X., 2022. Hyperpolarized 129Xe MRI Is Sensitive to Variations in Gas Exchange Impairment in Patients with Long Haul COVID-19 and Normal Cardiac Structure and Function. In C30. LIFE AND LUNGS AFTER COVID: FUNCTIONAL RECOVERY AND OUTCOMES FOLLOWING SARS-CoV2 INFECTION (pp. A3905-A3905). American Thoracic Society.
+6.	Mummy, D., Swaminathan, A., Bier, E., Yarnall, K., Bechtel, A., Lu, J., Leewiwatwong, S., Kabir, S., Korzekwinski, J. and Driehuys, B., Hyperpolarized 129 Xe MRI and spectroscopy in healthy control subjects reveals age-related changes in measurements of pulmonary gas exchange.
 
 ## Projects
 
