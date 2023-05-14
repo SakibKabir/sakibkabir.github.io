@@ -23,6 +23,14 @@ Imaging Software Engineer with 5+ years of experience in extensive scientific pr
 
 ## Projects
 
+## Skills
+•	Programming: Python (4+ years), C/C++ (2+ years), R (2+ years), MATLAB (11+ years), Java. 
+•	Python Libraries:  Matplotlib, SciPy, Scikit-Learn, TensorFlow, Pytorch, OpenCV, pyopencl, Gdal, rasterio, etc.
+•	Operating Systems: Unix/Linux, Windows; Cloud: Google Cloud; Software: ENVI, QGIS, ArcGIS, etc.
+•	Software Engineering: bash and shell scripting, testing, and debugging, version control using Git and GitLab.
+•	Machine Learning: Regression, K-means, KNN, ANN, Convolutional NN, Deep NN, PCA, SVM, etc.
+•	Soft-Skills: Problem solving, teamwork, communication, perseverance, time management, multitasking, technical report writing, presentation.
+
 ### Satellite Imaging 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
